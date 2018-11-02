@@ -1,6 +1,5 @@
-## Demonstrate React Basic concept and application structure
-## I have created this project to show how we can build react application
-## It is small react based application where you can add items to list and delete it
+## Basic Demo for carousel in react js
+## Attached the output file screenshot(public/carousel.png)
 
 Prerequisites
 ============
