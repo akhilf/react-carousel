@@ -67,20 +67,19 @@ i {
 }
 .carousel-arrow {
   position: absolute;
-  top: 50%;
   display: block;
   color: #111;
   cursor: pointer;
   opacity: .75;
 }
 .carousel-arrow-left{
-  top: 110%;
+  top: 440px;
   left: 182px;
   transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
 }
 .carousel-arrow-right{
-  top: 111%;
+  top: 444px;
   right: 182px;
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
