@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Carousel.css';
+import './carousel.scss';
 import Carousel from './compoents/Carousel';
 
 // Data for carousel
